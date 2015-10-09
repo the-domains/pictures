@@ -1,6 +1,7 @@
 name: pictures
 favicon: null
 layout_spectrum: 0.48965
+typography_spectrum: 0.98876
 cta:
   domain: null
   bucket: null
@@ -15,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#010000'
-    - '#000000'
-    - '#000000'
-    - '#000000'
-    - '#000000'
-  brandStrength: 0.5
+    - '#e1e4db'
+    - '#0e0e0e'
+    - '#48483c'
+    - '#6a6a6c'
+    - '#8d470b'
+  brandStrength: 1
   lightness: 0.875
   saturation: 0.75
   rhythmicContrast: 0.5
