@@ -1,7 +1,7 @@
 name: pictures
 favicon: null
-layout_spectrum: 0.68236
-typography_spectrum: 0.98876
+layout_spectrum: 0.44257
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
